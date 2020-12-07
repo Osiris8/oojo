@@ -246,7 +246,7 @@ img {
     top: 0;
     left: 0;
     content: '';
-    background-color: #186882;
+    background-color: #022030;
     opacity: 0.97;
     z-index: -1; }
 
@@ -3404,7 +3404,7 @@ p {
   border-bottom-color: rgba(255, 255, 255, 0.1); }
 
 .header_area.white-nav .is-sticky .main_header_area {
-  background-color: #186882; }
+  background-color: #022030; }
 
 .header_area.white-nav .classy-nav-container a {
   color: #ffffff; }
