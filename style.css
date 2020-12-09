@@ -310,7 +310,7 @@ img {
 
 /* Extend CSS */
 .apland-btn, #scrollUp, .welcome_slider .owl-dot.active::after, .newsletter-form-area .button, .footer_social_area a:hover, .footer_social_area a:focus, .tooltip-inner {
-  background-color: #3f43fd; }
+  background-color: #186882; }
 
 .message_now_area .form-control:focus, .message_now_area textarea.form-control:focus {
   border-color: #3f43fd; }
@@ -340,7 +340,7 @@ p {
   top: 0;
   width: 100%;
   z-index: 999999999999;
-  background-color: #3f43fd; }
+  background-color: #186882; }
 
 .apland-load {
   -webkit-animation: apland-load 1500ms linear infinite;
@@ -393,7 +393,7 @@ p {
   #scrollUp i {
     line-height: 40px; }
   #scrollUp:hover, #scrollUp:focus {
-    background-color: #020710; }
+    background-color: #186882; }
 
 /* Header CSS */
 .header_area {
@@ -2162,7 +2162,7 @@ p {
 .using_benefits_area {
   position: relative;
   z-index: 1;
-  background-color: #070a57;
+  background-color: #186882;
   overflow: hidden; }
   .using_benefits_area .benefit-top-thumbnail img {
     position: absolute;
