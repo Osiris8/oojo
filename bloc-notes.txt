@@ -1,0 +1,59 @@
+- Es ce qu'un elève peut payer ? (Pricing)
+- N'avait t-on pas dit que on enlève la section pricing du processus ?
+
+ - Enseignant
+
+Je m'inscris via un formulaire depuis la plateforme (Nom et prénom, sexe, tél, email, zone, cours primaire / secondaire)
+- Je reçois un mail avec un lien de formulaire google (cv, dernier diplome)
+- Avantages de la plateforme
+
+Un administrateur valide mon adhésion
+
+Les parents pourront filtrer en fonction de (zone, classe, matière(à cocher), nombre d'enfant)
+
+J'ai une essai gratuit de 10 jouirs à avoir sur la platfeorme.
+
+Un enseignant/Metor
+
+Exactement le modèl de Openclassroom pour les mentors
+
+Donc il faut recruter les mentos par zone, expliquer le modèl, comment se passe le mentorat.
+
+Recevoir l'élève une fois par semaine
+
+Il suit l'elève et le coach un peu comme le model de openclassroom sur le parcours (J'apprends, je m'exerce, je veux de l'aide, je cherche)
+
+-workplace
+- demander le casque
+- partir à la boa
+- aller au marché
+- Appeler l'electricienWxc  	 
+
+Osiris8@123!
+
+!!!!!!!!!!!!Il faut commencer par preparer les contenus à mettre
+
+########################################################################################################################################################################
+
+--------------- Espace Elève ---------------------------------------------
+Il faut verifier l'email des élèves
+
+Table student
+id
+Name
+Username
+Email
+Tel
+Password
+Father
+Father_contact
+Mother
+Mother_contact
+Ville
+Pays
+statut
+
+/////////////////////////Alerte difficulté technique lors de l'inscription///////////////////////////////////
+
+Quand je renseigne les premières informations lors de l'inscription, le système ne peut savoir qui s'est renseigné lors du deuxième formulaire.
+ Alors donc lors de l'inscription on le force à renseigner le reste des infos ou lors de la souscription
